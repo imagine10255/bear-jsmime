@@ -13,15 +13,17 @@
     "type": "git",
     "url": "https://github.com/imagine10255/bear-jsmine.git"
   },
+  "main": "dist/bear-jsmine.js",
+  "module": "dist/bear-jsmine.modern.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "dist",
-    "src/db.ts"
+    "dist"
   ],
   "engines": {
     "node": ">=10"
   },
   "scripts": {
-    "build": "run-s build:claer && tsc --project ./tsconfig.build.json",
+    "build": "run-s build:claer && microbundle src/*.ts -o dist --no-compress --no-css-modules --format modern,cjs",
     "build:claer": "rm -rf ./dist",
     "prepublishOnly": "run-s build",
     "test": "jest --coverage",
