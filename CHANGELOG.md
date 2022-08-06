@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.4](https://github.com/imagine10255/bear-jsmine/compare/v2.2.3...v2.2.4) (2022-08-06)
+
 ### 2.2.3 (2022-08-06)
 
 ### [2.2.2](https://github.com/imagine10255/bear-jsmine/compare/v2.2.1...v2.2.2) (2022-08-03)
