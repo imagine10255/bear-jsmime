@@ -2,6 +2,10 @@ interface IMineType {
     [mineType: string]: string[],
 }
 
+// [
+//   [ 'application/acrobat', ['pdf'] ],
+//   [ 'application/andrew-inset', ['ez']' ]
+// ]
 export const mineTypeMap: IMineType = {
     'application/acrobat': ['pdf'],
     'application/andrew-inset': ['ez'],
