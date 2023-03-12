@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0-alpha.1](https://github.com/imagine10255/bear-jsmine/compare/v2.3.0-alpha.0...v2.3.0-alpha.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* fix extname2mineType replace . and modify use includes ([e62fad7](https://github.com/imagine10255/bear-jsmine/commit/e62fad775834d45c20a5de4aeabd35b44d2719c6))
+
 ## [2.3.0-alpha.0](https://github.com/imagine10255/bear-jsmine/compare/v2.2.5...v2.3.0-alpha.0) (2023-03-12)
 
 
