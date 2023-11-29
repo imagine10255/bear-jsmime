@@ -1,22 +1,22 @@
-# bear-jsmine
+# bear-jsmime
 
 > Common tools build docker image for node project development
 
-[![NPM](https://img.shields.io/npm/v/bear-jsmine.svg)](https://www.npmjs.com/package/bear-jsmine)
-[![npm](https://img.shields.io/npm/dm/bear-jsmine.svg)](https://www.npmjs.com/package/bear-jsmine)
+[![NPM](https://img.shields.io/npm/v/bear-jsmime.svg)](https://www.npmjs.com/package/bear-jsmime)
+[![npm](https://img.shields.io/npm/dm/bear-jsmime.svg)](https://www.npmjs.com/package/bear-jsmime)
 
 
 ## Install
 
 ```bash
-yarn add -D bear-jsmine
+yarn add -D bear-jsmime
 ```
 
 ## Use
 ```javascript
-import {mineType2extname} from 'bear-jsmine';
+import {mimeType2extname} from 'bear-jsmime';
 
-mineType2extname('image/jpeg');
+mimeType2extname('image/jpeg');
 // jpg
 
 ```

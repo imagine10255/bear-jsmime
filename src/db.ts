@@ -1,12 +1,12 @@
-interface IMineType {
-    [mineType: string]: string[],
+interface IMimeType {
+    [mimeType: string]: string[],
 }
 
 // [
 //   [ 'application/acrobat', ['pdf'] ],
 //   [ 'application/andrew-inset', ['ez']' ]
 // ]
-export const mineTypeMap: IMineType = {
+export const mimeTypeMap: IMimeType = {
     'application/acrobat': ['pdf'],
     'application/andrew-inset': ['ez'],
     'application/annodex': ['anx'],

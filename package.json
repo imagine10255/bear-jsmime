@@ -1,20 +1,20 @@
 {
-  "name": "bear-jsmine",
+  "name": "bear-jsmime",
   "version": "2.3.0-alpha.1",
-  "description": "mine type toold fot javascript",
+  "description": "mime type tools fot javascript",
   "keywords": [
     "reactjs",
     "nestjs",
-    "mine-type"
+    "mime-type"
   ],
   "author": "imagine10255",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imagine10255/bear-jsmine.git"
+    "url": "https://github.com/imagine10255/bear-jsmime.git"
   },
-  "main": "dist/bear-jsmine.js",
-  "module": "dist/bear-jsmine.modern.js",
+  "main": "dist/bear-jsmime.js",
+  "module": "dist/bear-jsmime.modern.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
