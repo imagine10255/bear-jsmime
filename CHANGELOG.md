@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/imagine10255/bear-jsmime/compare/v2.3.0-alpha.1...v2.3.0) (2023-11-29)
+
+
+### Features
+
+* rename mineType -> mimeType ([64d4f9e](https://github.com/imagine10255/bear-jsmime/commit/64d4f9ea4b68e0437d72dba6af329a59954ea192))
+
 ## [2.3.0-alpha.1](https://github.com/imagine10255/bear-jsmime/compare/v2.3.0-alpha.0...v2.3.0-alpha.1) (2023-03-12)
 
 
